@@ -71,23 +71,17 @@ const profileData = {
     {
       title: 'Platform Modernization Program',
       description: 'Led the evolution of a legacy enterprise platform into a modular, cloud-ready architecture with improved reliability and faster delivery cycles.',
-      tech: ['Azure', 'C#', 'Microservices', 'Docker'],
-      github: '#',
-      demo: '#'
+      tech: ['Azure', 'C#', 'Microservices', 'Docker']
     },
     {
       title: 'AI Assist for Engineering Teams',
       description: 'Introduced AI-assisted workflows for requirement analysis, documentation, and internal knowledge discovery to increase delivery efficiency.',
-      tech: ['OpenAI', 'TypeScript', 'Azure Functions'],
-      github: '#',
-      demo: '#'
+      tech: ['OpenAI', 'TypeScript', 'Azure Functions']
     },
     {
       title: 'Cloud-native Service Mesh',
       description: 'Architected a resilient set of APIs and services with strong observability, automation, and deployment guardrails for growing product demand.',
-      tech: ['ASP.NET Core', 'Azure', 'PostgreSQL', 'CI/CD'],
-      github: '#',
-      demo: '#'
+      tech: ['ASP.NET Core', 'Azure', 'PostgreSQL', 'CI/CD']
     }
   ],
 };
@@ -165,10 +159,7 @@ function renderProjects() {
           <div class="tag-list">
             ${project.tech.map((item) => `<span>${item}</span>`).join('')}
           </div>
-          <div class="project-actions">
-            <a href="${project.github}" target="_blank" rel="noreferrer">GitHub</a>
-            <a href="${project.demo}" target="_blank" rel="noreferrer">Demo</a>
-          </div>
+
         </article>
       `
     )
