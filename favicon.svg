@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Abu Adnan icon">
+  <rect width="64" height="64" rx="16" fill="#0F172A"/>
+  <!-- Letter A - Simple -->
+  <g>
+    <path d="M16 48 L24 16 L32 48 Z" fill="#3B82F6"/>
+    <rect x="20" y="32" width="8" height="3" fill="white"/>
+  </g>
+  <!-- Letter B - Simple -->
+  <g>
+    <rect x="38" y="16" width="4" height="32" fill="#06B6D4"/>
+    <path d="M42 16 C46 16 48 18 48 22 C48 25 46 27 42 27 L38 27 L38 16 Z" fill="#06B6D4"/>
+    <path d="M42 27 C47 27 50 30 50 35 C50 40 47 48 42 48 L38 48 L38 27 Z" fill="#06B6D4"/>
+  </g>
+</svg>

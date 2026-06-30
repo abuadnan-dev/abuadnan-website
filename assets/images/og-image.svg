@@ -1,0 +1,29 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="72" y1="72" x2="1128" y2="558" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#1E3A8A"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" rx="36" fill="#020617"/>
+  <rect x="72" y="72" width="1056" height="486" rx="28" fill="url(#bg)"/>
+  <circle cx="936" cy="202" r="152" fill="#06B6D4" fill-opacity="0.22"/>
+  <circle cx="320" cy="460" r="214" fill="#2563EB" fill-opacity="0.18"/>
+  <rect x="176" y="186" width="330" height="236" rx="24" fill="white" fill-opacity="0.95"/>
+  <!-- Letter A - Simple & Clean -->
+  <g>
+    <path d="M220 350 L260 220 L300 350 Z" fill="#3B82F6"/>
+    <rect x="238" y="290" width="44" height="12" fill="white"/>
+  </g>
+  <!-- Letter B - Simple & Clean -->
+  <g>
+    <rect x="340" y="220" width="30" height="130" fill="#06B6D4"/>
+    <path d="M370 220 C385 220 395 230 395 245 C395 258 385 265 370 265 L340 265 L340 220 Z" fill="#06B6D4"/>
+    <path d="M370 265 C388 265 400 276 400 290 C400 308 388 350 370 350 L340 350 L340 265 Z" fill="#06B6D4"/>
+  </g>
+  <rect x="560" y="200" width="278" height="116" rx="18" fill="#0F172A" fill-opacity="0.9"/>
+  <rect x="590" y="238" width="162" height="13" rx="6.5" fill="#22D3EE"/>
+  <rect x="590" y="266" width="132" height="12" rx="6" fill="#E2E8F0"/>
+  <rect x="560" y="352" width="278" height="84" rx="18" fill="#111827" fill-opacity="0.95"/>
+  <rect x="588" y="384" width="166" height="12" rx="6" fill="#60A5FA"/>
+</svg>
